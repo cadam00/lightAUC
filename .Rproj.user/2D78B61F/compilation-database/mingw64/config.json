@@ -1,0 +1,27 @@
+{
+    "args": [
+        "-std=gnu++17",
+        "-IC:/PROGRA~1/R/R-44~1.2/include",
+        "-DNDEBUG",
+        "-DRCPP_PARALLEL_USE_TBB=1",
+        "-IC:/PROGRA~1/R/R-44~1.2/library/Rcpp/include",
+        "-IC:/PROGRA~1/R/R-44~1.2/library/RCPPAR~1/include",
+        "-IC:/PROGRA~1/R/R-44~1.2/library/RCPPPA~1/include",
+        "-DEIGEN_DONT_VECTORIZE",
+        "-nostdinc",
+        "-IC:/rtools44/x86_64-w64-mingw32.static.posix/bin/../lib/gcc/x86_64-w64-mingw32.static.posix/13.2.0/include/c++",
+        "-IC:/rtools44/x86_64-w64-mingw32.static.posix/bin/../lib/gcc/x86_64-w64-mingw32.static.posix/13.2.0/include/c++/x86_64-w64-mingw32.static.posix",
+        "-IC:/rtools44/x86_64-w64-mingw32.static.posix/bin/../lib/gcc/x86_64-w64-mingw32.static.posix/13.2.0/include/c++/backward",
+        "-IC:/rtools44/x86_64-w64-mingw32.static.posix/bin/../lib/gcc/x86_64-w64-mingw32.static.posix/13.2.0/include",
+        "-IC:/rtools44/x86_64-w64-mingw32.static.posix/bin/../lib/gcc/x86_64-w64-mingw32.static.posix/13.2.0/../../../../include",
+        "-IC:/rtools44/x86_64-w64-mingw32.static.posix/bin/../lib/gcc/x86_64-w64-mingw32.static.posix/13.2.0/include-fixed",
+        "-include",
+        "C:/Users/Administrator/Documents/packages/lightAUC/.Rproj.user/2D78B61F/compilation-database/mingw64/cpp-definitions.h"
+    ],
+    "pch": "RcppArmadillo",
+    "is_cpp": true,
+    "hash": "173833070217383094071738308863",
+    "compiler": "9381606054783649534",
+    "rversion": "4.4.2",
+    "dbversion": 4
+}

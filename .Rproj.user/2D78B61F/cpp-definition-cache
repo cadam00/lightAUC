@@ -1,0 +1,119 @@
+[
+    {
+        "file": "C:/Users/Administrator/Documents/packages/lightAUC/src/lightauc.cpp",
+        "file_last_write": 1738345608.0,
+        "definitions": [
+            {
+                "usr": "c:@F@fast_auc_code#&1$@N@arma@S@Col>#d#*$@S@SEXPREC#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "fast_auc_code(const arma::vec &, SEXP)",
+                "file": "C:/Users/Administrator/Documents/packages/lightAUC/src/lightauc.cpp",
+                "line": 10,
+                "column": 8,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@ComputeRanks",
+                "kind": 3,
+                "parent_name": "",
+                "name": "ComputeRanks",
+                "file": "C:/Users/Administrator/Documents/packages/lightAUC/src/lightauc.cpp",
+                "line": 64,
+                "column": 8,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@ComputeRanks@F@operator()#k#k#",
+                "kind": 7,
+                "parent_name": "ComputeRanks",
+                "name": "operator(std::size_t, std::size_t)",
+                "file": "C:/Users/Administrator/Documents/packages/lightAUC/src/lightauc.cpp",
+                "line": 74,
+                "column": 8,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@FastAUC_int",
+                "kind": 3,
+                "parent_name": "",
+                "name": "FastAUC_int",
+                "file": "C:/Users/Administrator/Documents/packages/lightAUC/src/lightauc.cpp",
+                "line": 86,
+                "column": 8,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@FastAUC_int@F@operator()#k#k#",
+                "kind": 7,
+                "parent_name": "FastAUC_int",
+                "name": "operator(std::size_t, std::size_t)",
+                "file": "C:/Users/Administrator/Documents/packages/lightAUC/src/lightauc.cpp",
+                "line": 98,
+                "column": 8,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@FastAUC_int@F@join#&1$@S@FastAUC_int#",
+                "kind": 7,
+                "parent_name": "FastAUC_int",
+                "name": "join(const FastAUC_int &)",
+                "file": "C:/Users/Administrator/Documents/packages/lightAUC/src/lightauc.cpp",
+                "line": 107,
+                "column": 8,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@FastAUC_double",
+                "kind": 3,
+                "parent_name": "",
+                "name": "FastAUC_double",
+                "file": "C:/Users/Administrator/Documents/packages/lightAUC/src/lightauc.cpp",
+                "line": 113,
+                "column": 8,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@FastAUC_double@F@operator()#k#k#",
+                "kind": 7,
+                "parent_name": "FastAUC_double",
+                "name": "operator(std::size_t, std::size_t)",
+                "file": "C:/Users/Administrator/Documents/packages/lightAUC/src/lightauc.cpp",
+                "line": 126,
+                "column": 8,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@FastAUC_double@F@join#&1$@S@FastAUC_double#",
+                "kind": 7,
+                "parent_name": "FastAUC_double",
+                "name": "join(const FastAUC_double &)",
+                "file": "C:/Users/Administrator/Documents/packages/lightAUC/src/lightauc.cpp",
+                "line": 135,
+                "column": 8,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@fast_auc_code_par#&1$@N@arma@S@Col>#d#1*$@S@SEXPREC#1I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "fast_auc_code_par(const arma::vec &, const SEXP, const int)",
+                "file": "C:/Users/Administrator/Documents/packages/lightAUC/src/lightauc.cpp",
+                "line": 141,
+                "column": 8,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@lightAUC#&1$@N@arma@S@Col>#d#1*$@S@SEXPREC#1b#1I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "lightAUC(const arma::vec &, const SEXP, const bool, const int)",
+                "file": "C:/Users/Administrator/Documents/packages/lightAUC/src/lightauc.cpp",
+                "line": 196,
+                "column": 8,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    }
+]
