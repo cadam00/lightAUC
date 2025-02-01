@@ -32,7 +32,7 @@ Fast and lightweight computation of AUC metric for the binary case (1 positive
 and 0 negative) is offered by <b>lightAUC</b> package. The algorithm used is a
 fast implementation from  algorithm of Fawcett ([2006](#ref-fawcett2006)).
 
-# **Example**
+## **Example**
 
 ```r
 # Create some data
