@@ -1,7 +1,7 @@
 test_that("lightAUC works", {
   library(lightAUC)
   probs   <- c(1, 0.4, 0.8)
-  actuals <- c(0, 0, 1)
+  actuals <- c(0L, 0L, 1L)
   expect_equal(lightAUC(probs, actuals), 0.5)
   expect_equal(lightAUC(probs, actuals, parallel = TRUE, cores = 2L), 0.5)
 
