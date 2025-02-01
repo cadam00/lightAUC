@@ -45,4 +45,8 @@ test_that("lightAUC works", {
     paste0("Error : Unsupported type for 'actual'.\n")
   )
   
+  Sys.setenv(RCPP_PARALLEL_BACKEND = "")
+  probs   <- c(1, 0.4, 0.8)
+  actuals <- c(0.0, 0.0, 1.0)
+  expect_equal(lightAUC(probs, actuals, parallel = TRUE, cores = 2L), 0.5)
 })
