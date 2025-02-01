@@ -1,4 +1,0 @@
-useDynLib(lightAUC, .registration=TRUE)
-importFrom(Rcpp, evalCpp)
-importFrom(RcppParallel,RcppParallelLibs)
-export("lightAUC")
