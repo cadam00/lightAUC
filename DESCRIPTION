@@ -23,4 +23,5 @@ Suggests:
     testthat (>= 3.0.0)
 VignetteBuilder: knitr, rmarkdown
 Config/testthat/edition: 3
-URL: https://cadam00.github.io/lightAUC/
+URL: https://github.com/cadam00/lightAUC, https://cadam00.github.io/lightAUC/
+BugReports: https://github.com/cadam00/corbouli/issues
