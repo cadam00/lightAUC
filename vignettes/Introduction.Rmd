@@ -39,6 +39,17 @@ lightAUC(probs, actuals)
 ## 0.5
 ```
 
+For parallel calculations use:
+```r
+# E.g. 2 cores (you can use cores = parallel::detectCores() for your case)
+probs   <- c(1, 0.4, 0.8)
+actuals <- c(0, 0, 1)
+lightAUC(probs, actuals, parallel = TRUE, cores = 2)
+```
+```
+## 0.5
+```
+
 ## **References**
 
 <span class="nocase" id="ref-fawcett2006">
