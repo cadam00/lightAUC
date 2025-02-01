@@ -1,6 +1,8 @@
-# poobly 0.1.1
+# lightAUC 0.1.0
 
-- Minor updates from previously submitted 0.1.0 version.
+## Major changes
+
+- Initial package version.
 
 ## R CMD check results
 
