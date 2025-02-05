@@ -9,7 +9,13 @@
 
 ## **Install**
 
-The development version of the package can be installed via
+The official [(CRAN)](https://cran.r-project.org/) version of the package can be
+installed using
+``` r
+install.packages("lightAUC")
+```
+
+Alternatively, the development version of the package can be installed via
 ``` r
 if (!require(remotes)) install.packages("remotes")
 remotes::install_github("cadam00/lightAUC")
