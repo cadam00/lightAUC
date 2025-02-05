@@ -1,6 +1,6 @@
 <!-- badges: start -->
 [![CRAN status](https://www.r-pkg.org/badges/version/lightAUC)](https://CRAN.R-project.org/package=lightAUC)
-[![Developmental version](https://img.shields.io/badge/devel%20version-0.1.1-blue.svg)](https://github.com/cadam00/lightAUC)
+[![Developmental version](https://img.shields.io/badge/devel%20version-0.1.2-blue.svg)](https://github.com/cadam00/lightAUC)
 [![R-CMD-check](https://github.com/cadam00/lightAUC/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/cadam00/lightAUC/actions/workflows/R-CMD-check.yaml)
 [![Codecov test coverage](https://codecov.io/gh/cadam00/lightAUC/graph/badge.svg)](https://app.codecov.io/gh/cadam00/lightAUC)
 <!-- badges: end -->
