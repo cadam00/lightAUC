@@ -7,6 +7,10 @@
 
 # **Fast AUC computation in R**
 
+Fast and lightweight computation of AUC metric for the binary case (1 positive
+and 0 negative) is offered by <b>lightAUC</b> package. The algorithm used is a
+fast implementation from  algorithm of Fawcett ([2006](#ref-fawcett2006)).
+
 ## **Install**
 
 The official [(CRAN)](https://cran.r-project.org/) version of the package can be
@@ -21,22 +25,18 @@ if (!require(remotes)) install.packages("remotes")
 remotes::install_github("cadam00/lightAUC")
 ```
 
-<!--
+
 ## **Citation**
 
 To cite the official [(CRAN)](https://cran.r-project.org/) version of the
 package, please use
 
 <blockquote>
-<p>Adam, C. (2025). lightAUC: Fast AUC Computation. R package version 0.1.0.
+<p>Adam, C. (2025). lightAUC: Fast AUC Computation. R package version 0.1.2.
 doi:<a href="https://doi.org/10.32614/CRAN.package.lightAUC"
 class="uri">10.32614/CRAN.package.lightAUC</a></p>
 </blockquote>
--->
 
-Fast and lightweight computation of AUC metric for the binary case (1 positive
-and 0 negative) is offered by <b>lightAUC</b> package. The algorithm used is a
-fast implementation from  algorithm of Fawcett ([2006](#ref-fawcett2006)).
 
 ## **Example**
 

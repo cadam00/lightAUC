@@ -1,4 +1,4 @@
-# lightAUC 0.1.1
+# lightAUC 0.1.2
 
 > checking for GNU extensions in Makefiles ... NOTE
   GNU make is a SystemRequirements.
@@ -7,5 +7,4 @@
 
 ## R CMD check results
 
-0 errors \| 0 warnings \| 2 notes
-* This is a new release.
+0 errors \| 0 warnings \| 1 notes
