@@ -1,4 +1,4 @@
-# lightAUC 0.1.2
+# lightAUC 0.1.3
 
 > checking for GNU extensions in Makefiles ... NOTE
   GNU make is a SystemRequirements.
